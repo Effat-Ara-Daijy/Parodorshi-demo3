@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg navbar-light">
-                        <div class="container-fluid">
+                        <div class="container">
                             <a class="navbar-brand" href="<?php echo $sSiteURL; ?>">
                                 <img src="<?php echo $sLogoURL; ?>" alt="Parodorshi" title="Parodorshi"></a>
                             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
