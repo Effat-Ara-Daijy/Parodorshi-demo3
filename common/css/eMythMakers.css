@@ -11,7 +11,7 @@ h1,h2,h3,h4,h5,h6{font-family:'SolaimanLipi';margin-bottom:0;font-size:26px;line
 a{color:#222;text-decoration:none;}a:hover{text-decoration:none;color:#fff}
 a:hover{color:black;}
 p{margin-bottom:0;font-size:16px;line-height:22px}
-.container{padding-right:10px;padding-left:10px;max-width:1140px;}
+.container{padding-right:10px;padding-left:10px;max-width:1260px;}
 .container-fluid{padding:0}
 .img100{width:100%}
 .form-control:focus{border-color:var(--primary);box-shadow:none;}
@@ -118,9 +118,15 @@ p{margin-bottom:0;font-size:16px;line-height:22px}
 	border-bottom: 1px solid #eee;
 	font-size: 16px;
   }
+.navbar-nav .dropdown .dropdown-menu .dropdown-item:last-child{
+	border-bottom: unset;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{
+	color: var(--Seconday);
+}
 .dropdown-menu[data-bs-popper]{
-	top: 0;
-	margin-top: 0;
+	/* top: 0; */
+	margin-top: -10px;
 }
 .dropdown-menu{
 	padding-top: 0;
