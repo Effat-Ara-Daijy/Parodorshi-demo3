@@ -87,7 +87,7 @@ p{margin-bottom:0;font-size:16px;line-height:22px}
   }
 .navbar-light .navbar-nav .nav-link{
 	color: #fff;
-	font-size: 16px;
+	font-size: 15px;
 	font-weight: 700;
 	line-height: 26px;
 }
@@ -101,7 +101,7 @@ p{margin-bottom:0;font-size:16px;line-height:22px}
 	background: var(--Seconday);
 	padding: 6px 18px;
 	transition: all 0.1s ease-out;
-	font-size: 16px;
+	font-size: 15px;
 	}
 .navbar-light .navbar-nav .nav-link:hover{
 	color: var(--Seconday);

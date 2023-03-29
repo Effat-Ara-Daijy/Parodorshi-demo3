@@ -24,7 +24,7 @@
                                         </ul>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">অনুষদের তথ্য</a>
+                                        <a class="nav-link" href="#"> ফ্যাকাল্টি ইনফরমেশন</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="#">কার্যক্রম</a>
